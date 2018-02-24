@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello World"
-echo "Blank Liu"
+echo "Blank (Yang) Liu"
